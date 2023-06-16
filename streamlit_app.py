@@ -1,3 +1,3 @@
-improt streamlit
+import streamlit
 
 streamlit.title('Hello')
